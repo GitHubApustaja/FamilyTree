@@ -1,11 +1,11 @@
 {
-  "name": "Benjen Stark2",
-  "bio":"main lad here's his bio",
+  "name": "Darby Dwyer",
+  "bio":"Cluid",
   "image":"images/fictional/lord.png",
   "children":[
     {
-      "name":"Rickon Stark",
-      "bio":" Lord of Winterfell and head of House Stark. The eldest son of Lord Benjen Stark and Lady Lysa Locke. He married Lady Gilliane Glover and had one son.",
+      "name":"Malachy",
+      "bio":"Married to Mary Costelloe",
       "image":"images/fictional/lord.png",
       "children":[
         {
@@ -173,19 +173,26 @@
       ]
     },
     {
-      "name":"Bennard Stark",
-      "bio":"Married Margaret Karstark, with whom he had three sons",
-      "children":[
-        {
-          "name":"Benjen"
-        },
-        {
-          "name":"Brandon"
-        },
-        {
-          "name":"Elric"
-        }
-      ]
+      "name":"Darby",
+      "bio":"Married Mary Trehy", 
+    },
+	{
+      "name":"Mary",
+      "bio":"Married Conn Brien 05/02/1812 at Bishopswood", 
+	  "isFemale":true
+    },
+	{
+      "name":"John",
+      "bio":"Married Mary Crowe", 
+    },
+	{
+      "name":"Patrick",
+      "bio":"Married Mary Cody", 
+    },
+	{
+      "name":"Mathew",
+      "bio":"Married Mary Morrissey (Rossoulty c.1808)", 
     }
+	
   ]
 }
