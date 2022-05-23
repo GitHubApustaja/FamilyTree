@@ -1,0 +1,46 @@
+{
+  "children":[
+    {
+      "name":"Patrick",
+      "bio":"12/11/1897. C.Brother. Died 28/02/1919"     
+    },
+    {
+      "name":"Matthew",
+      "bio":"25/03/1900. Married Josie Dwyer 03/07/1940. Died 15/06/1963",
+	  "image":"images/fictional/lord.png",
+	  "source", "json/matthewjosie.json"		  
+    },
+	{
+      "name":"Denis",
+      "bio":"23/05/1901. Married Catherine Mundoe 04/01/1943. Died 30/12/1959"     	  
+    },
+	{
+      "name":"Jerome",
+      "bio":"16/04/1903. Married Mary Ussher 19/08/1935. Died 12/02/1985"      	  
+    },
+	{
+      "name":"Mary",
+      "bio":"23/04/1904. Married John Mullane. Died 01/03/1988",
+	  "isFemale": true
+    },
+	{
+      "name":"James",
+      "bio":"23/09/1905. R.C. Priest. Died 17/03/1969"	
+    },
+	{
+      "name":"Margaret",
+      "bio":"22/11/1906. Married Henry Campbell 19/03/1937. Died 06/06/1982",
+	  "isFemale": true	  
+    },
+	{
+      "name":"Margaret",
+      "bio":"22/11/1906. Married Henry Campbell 19/03/1937. Died 06/06/1982"	
+    },
+	{
+      "name":"Michael",
+      "bio":"22/07/1908 - 1910"	
+    },	
+	
+	
+  ]
+}

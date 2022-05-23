@@ -6,12 +6,14 @@
     },
     {
       "name":"Mary",
-      "bio":"04/01/1870. Married Denis Morissey (Ballymachabery) 08/02/1897",
+      "bio":"04/01/1870. Married Denis Morrissey (Ballymachabery) 08/02/1897",
+	  "source", "json/marydenismorrissey.json",
+	  "image":"images/fictional/lord.png",
 	  "isFemale":true		  
     },
 	{
       "name":"Johanna",
-      "bio":"13/03/1972. Spinster",
+      "bio":"13/03/1872. Spinster",
       "isFemale":true		  
     },
 	{
