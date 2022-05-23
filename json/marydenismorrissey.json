@@ -8,7 +8,7 @@
       "name":"Matthew",
       "bio":"25/03/1900. Married Josie Dwyer 03/07/1940. Died 15/06/1963",
 	  "image":"images/fictional/lord.png",
-	  "source", "json/matthewjosie.json"		  
+	  "source": "json/matthewjosie.json"		  
     },
 	{
       "name":"Denis",
