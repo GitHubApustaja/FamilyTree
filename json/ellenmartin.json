@@ -1,0 +1,15 @@
+{
+  "children":[
+    {
+      "name": "Simon"
+    },
+    {
+      "name": "Katherine",
+	  "isFemale" : true
+    },
+	{
+      "name": "Joanne",
+	  "isFemale" : true
+    }	
+  ]
+}

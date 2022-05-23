@@ -1,0 +1,32 @@
+{
+  "children":[
+    {
+      "name": "Patrick"
+    },
+    {
+      "name": "Margaret (Peggy)",
+	  "isFemale" : true
+    },
+	{
+      "name": "Josie",
+	  "isFemale" : true
+    },
+	{
+      "name": "Ellen (Nell)",
+	  "source": "json/ellenmartin.json",
+	  "isFemale" : true
+    },	
+	{
+      "name": "Kathleen",
+	  "isFemale" : true
+    },
+	{
+	   "name":"Sarah",
+	   "isFemale" : true
+	},
+	{
+	   "name":"Mary",
+	   "isFemale" : true
+	} 	
+  ]
+}
