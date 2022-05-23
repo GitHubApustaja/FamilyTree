@@ -1,0 +1,27 @@
+{
+  "children":[
+    {
+      "name":"Ellen",
+      "bio":"01/1907. Died in infancy (1908)"     
+    },
+    {
+      "name":"Jeremiah",
+      "bio":"20/06/1908. Married Catherine Ralph 28/09/1948. Died 20/01/1981",
+	  "source":"jeremiah.json"
+    },
+	{
+      "name":"Catherine",
+      "bio":"08/02/1910. Married Philip Ryan", 
+	  "isFemale":true
+    },	
+	{
+      "name":"Patrick",
+      "bio":"23/09/1911. Married Bridget O'Leary" 
+    },
+	{
+      "name":"Mary Ellen",
+      "bio":"09/11/1913",
+	  "isFemale":true	  
+    }	
+  ]
+}
