@@ -1,0 +1,37 @@
+{
+  "children":[
+    {
+      "name":"Matthew",
+      "bio":"12/1855. Married Maria Dwyer"     
+    },
+    {
+      "name":"John and Thomas",
+      "bio":"Twins, died in infancy" 
+    },
+	{
+      "name":"Thomas",
+      "bio":"Married Mary McCann (Dublin) c.1888/9 USA"	 
+    },
+	{
+      "name":"John (Jack Jer Matt)",
+      "bio":"20/07/1862 - 07/05/1946. Married Johanna Carey (D. 24/02/1953) in Rossmore 15/02/1905" 
+    },
+	{
+      "name":"Cornelius",
+      "bio":"13/01/1867. Married 21/06/1899 to Catherine Condon (Shronill)" 
+    },
+	{
+      "name":"Michael",
+      "bio":"30/09/1864. Patrician Brother. Died 15/02/1885 Australia" 
+    },
+	{
+      "name":"Mary",
+      "bio":"08/1857. Died 27/02/1931" 
+    },	
+	{
+      "name":"Katie",
+      "bio":"05/1869. Died 26/09/1948" 
+    }	
+	
+  ]
+}
