@@ -1,0 +1,22 @@
+{
+  "children":[
+    {
+      "name":"Mary Anne",
+	  "isFemale" : true	  
+    },
+	{
+      "name":"Denis"	
+    },  
+	{
+      "name":"Patrick"	
+    },
+	{
+      "name":"Joan",	
+	  "isFemale" : true	   
+    },
+	{
+      "name":"Catherine (Kathleen)",
+	  "isFemale" : true	  
+    }	
+  ]
+}
