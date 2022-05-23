@@ -27,7 +27,8 @@
 	{
       "name":"Mathew",
       "bio":"Married Mary Morrissey (Rossoulty c.1808)",
-	  "image":"images/fictional/lord.png"
+	  "image":"images/fictional/lord.png",
+	  "source":"json/mathew.json"
     }	
   ]
 }
