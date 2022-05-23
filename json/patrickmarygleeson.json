@@ -7,7 +7,7 @@
     {
       "name":"Mary",
       "bio":"04/01/1870. Married Denis Morrissey (Ballymachabery) 08/02/1897",
-	  "source", "json/marydenismorrissey.json",
+	  "source": "json/marydenismorrissey.json",
 	  "image":"images/fictional/lord.png",
 	  "isFemale":true		  
     },
