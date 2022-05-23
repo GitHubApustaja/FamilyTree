@@ -1,10 +1,12 @@
 {
   "children":[
     {
-      "name": "Patrick"
+      "name": "Patrick",
+	  "image":"images/real/paddy.png"
     },
     {
       "name": "Margaret (Peggy)",
+	  "image":"images/real/peggy.png",
 	  "isFemale" : true
     },
 	{
@@ -14,19 +16,26 @@
 	{
       "name": "Ellen (Nell)",
 	  "source": "json/ellenmartin.json",
-	  "image":"images/fictional/lord.png",
+	  "image":"images/real/ellen(nell).png",
 	  "isFemale" : true
     },	
 	{
       "name": "Kathleen",
+	  "image":"images/real/Kathleen.png",
 	  "isFemale" : true
     },
 	{
 	   "name":"Sarah",
+	   "image":"images/real/sarah.png",
 	   "isFemale" : true
 	},
 	{
 	   "name":"Mary",
+	   "isFemale" : true
+	} ,
+	{
+	   "name":"Fidelma",
+	   "image":"images/real/fidelma.png",	   
 	   "isFemale" : true
 	} 	
   ]
