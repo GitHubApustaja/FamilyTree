@@ -14,7 +14,9 @@
     },
 	{
       "name":"John (Jack Jer Matt)",
-      "bio":"20/07/1862 - 07/05/1946. Married Johanna Carey (D. 24/02/1953) in Rossmore 15/02/1905" 
+      "bio":"20/07/1862 - 07/05/1946. Married Johanna Carey (D. 24/02/1953) in Rossmore 15/02/1905",
+	  "image":"images/fictional/lord.png",
+      "source" : "johnjackjermatt.json"	  
     },
 	{
       "name":"Cornelius",

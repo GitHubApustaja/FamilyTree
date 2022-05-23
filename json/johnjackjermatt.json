@@ -6,6 +6,7 @@
     },
     {
       "name":"Jeremiah",
+	  "image":"images/fictional/lord.png",
       "bio":"20/06/1908. Married Catherine Ralph 28/09/1948. Died 20/01/1981",
 	  "source":"jeremiah.json"
     },
