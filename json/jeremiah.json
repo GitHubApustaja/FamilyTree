@@ -1,0 +1,57 @@
+{
+  "children":[
+    {
+      "name":"John",
+      "bio":"26/05/1949. Married Maria Buckley"     
+    },
+    {
+      "name":"Liam",
+      "bio":"28/08/1950. Marrie Johanna Hayes" 
+    },
+	{
+      "name":"Michael",
+      "bio":"29/09/1951 - 06/08/1955"	 
+    },
+	{
+      "name":"Maria",
+      "bio":"01/01/1953. Married Patrick Cullen",
+	  "isFemale":true	 
+    },
+	{
+      "name":"Joan",
+      "bio":"04/02/1954. Married Hugh McLoughlin" 
+	  "isFemale":true	
+    },
+	{
+      "name":"Patricia",
+      "bio":"18/03/1955. Married Peter Fitzell",
+	  "isFemale":true	  
+    },	
+	{
+      "name":"Dermott",
+      "bio":"02/09/1956. Married Margaret O'Dwyer"	
+    },
+	{
+      "name":"Malachy",
+      "bio":"13/03/1958"	
+    },
+	{
+	  "name":"Caroline",
+      "bio":"07/12/1966. Married John Armstrong",
+	  "isFemale":true		
+	},
+	{
+	  "name":"Anthony",
+      "bio":"22/05/1968"	
+	},	
+	{
+	  "name":"Declan",
+      "bio":"28/01/1970"	
+	},	
+	{
+	  "name":"Colette",
+      "bio":"22/04/1974 - 11/09/1978",
+	  "isFemale": true	  
+	}		
+  ]
+}
