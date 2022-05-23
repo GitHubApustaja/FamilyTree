@@ -1,0 +1,65 @@
+{
+  "name": "Mathew",
+  "bio":"Married Mary Morrissey (Rossoulty c.1808)",
+  "image":"images/fictional/lord.png"
+  "children":[
+    {
+      "name":"Darby",
+      "bio":"06/01/1809. Died in infancy",     
+    },
+    {
+      "name":"Darby (Jeremiah)",
+      "bio":"16/04/1810 (Smith) Married Ellen Ryan (Morgan) Drombane" 
+    },
+	{
+      "name":"Judith",
+      "bio":"27/11/1814. Married Michael Behan (Knockbrittas)", 
+	  "isFemale":true
+    },
+	{
+      "name":"Malachy (Big Mallach)",
+      "bio":"06/01/1814. Married Judith Ryan (Rathordan) 06/03/1837" 
+    },
+	{
+      "name":"John",
+      "bio":"22/01/1816. Died in infancy" 
+    },
+	{
+      "name":"Mary",
+	  "isFemale":true,
+      "bio":"23/01/1817. Died 24/09/1838"	 
+    },
+	{
+      "name":"John",
+      "bio":"25/02/1818. USA. Married Bridget McGrath 25/02/1838"	 
+    },
+	{
+      "name":"Patrick",
+      "bio":"16/02/1820. Married Mary Gleeson (Turraheen)"	 
+    },
+	{
+      "name":"Michael",
+      "bio":"25/02/1822. Married Margaret Fogarty"	 
+    },	
+	{
+      "name":"Ellen",
+	  "isFemale":true,
+      "bio":"09/02/1825. Married Pierce Stapleton (Clonkelly)"	 
+    },	
+	{
+      "name":"Matthew",
+      "bio":"13/04/1827"	 
+    },	
+	{
+      "name":"Margaret",
+	  "isFemale":true,
+      "bio":"13/04/1827 - 14/05/1914"	 
+    },
+	{
+      "name":"Bridget",
+	  "isFemale":true,
+      "bio":"01/01/1824"	 
+    }	
+	
+  ]
+}
