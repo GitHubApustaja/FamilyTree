@@ -26,11 +26,13 @@
     },
 	{
       "name":"Mary",
-      "bio":"08/1857. Died 27/02/1931" 
+      "bio":"08/1857. Died 27/02/1931",
+	  "isFemale":true	  
     },	
 	{
       "name":"Katie",
-      "bio":"05/1869. Died 26/09/1948" 
+      "bio":"05/1869. Died 26/09/1948",
+	  "isFemale":true
     }	
 	
   ]
