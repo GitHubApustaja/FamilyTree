@@ -34,7 +34,8 @@
     },
 	{
       "name":"Patrick",
-      "bio":"16/02/1820. Married Mary Gleeson (Turraheen) 13/02/1866"	
+      "bio":"16/02/1820. Married Mary Gleeson (Turraheen) 13/02/1866",
+	  "image":"images/fictional/lord.png",
 	  "source":"json/patrickmarygleeson.json"
     },
 	{
