@@ -6,7 +6,8 @@
     },
     {
       "name":"Darby (Jeremiah)",
-      "bio":"16/04/1810 (Smith) Married Ellen Ryan (Morgan) Drombane" 
+      "bio":"16/04/1810 (Smith) Married Ellen Ryan (Morgan) Drombane",
+	  "source":"darbyjeremiah.json"
     },
 	{
       "name":"Judith",
@@ -14,7 +15,7 @@
 	  "isFemale":true
     },
 	{
-      "name":"Malachy <br/>(Big Mallach)",
+      "name":"Malachy (Big Mallach)",
       "bio":"06/01/1814. Married Judith Ryan (Rathordan) 06/03/1837" 
     },
 	{
