@@ -1,0 +1,23 @@
+{
+  "children":[
+    {
+      "name":"Matthew",
+      "bio":"24/05/1868. C.Brother. Died 17/02/1901"     
+    },
+    {
+      "name":"Mary",
+      "bio":"04/01/1870. Married Denis Morissey (Ballymachabery) 08/02/1897",
+	  "isFemale":true		  
+    },
+	{
+      "name":"Johanna",
+      "bio":"13/03/1972. Spinster",
+      "isFemale":true		  
+    },
+	{
+      "name":"Bridget",
+      "bio":"02/05/1874 - 29/06/1874",
+      "isFemale":true		  
+    }	
+  ]
+}
