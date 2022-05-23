@@ -14,6 +14,7 @@
       "name":"Catherine",
       "bio":"08/02/1910. Married Philip Ryan", 
 	  "source":"json/nannyryan.json",
+	  "image":"images/fictional/lord.png",
 	  "isFemale":true
     },	
 	{
