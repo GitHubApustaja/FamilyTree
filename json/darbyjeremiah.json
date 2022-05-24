@@ -2,8 +2,9 @@
   "children":[
     {
       "name":"Matthew",
-      "bio":"12/1855. Married Maria Dwyer"
-	  "source" : "json/matthewmariadwyer.json"
+      "bio":"12/1855. Married Maria Dwyer",
+	  "image":"images/fictional/lord.png",
+	  "source":"json/matthewmariadwyer.json"
     },
     {
       "name":"John and Thomas",
@@ -17,7 +18,7 @@
       "name":"John (Jack Jer Matt)",
       "bio":"20/07/1862 - 07/05/1946. Married Johanna Carey (D. 24/02/1953) in Rossmore 15/02/1905",
 	  "image":"images/fictional/lord.png",
-      "source" : "json/johnjackjermatt.json"	  
+      "source":"json/johnjackjermatt.json"	  
     },
 	{
       "name":"Cornelius",
