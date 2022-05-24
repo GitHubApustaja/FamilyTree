@@ -79,7 +79,28 @@
 	{
 	   "name":"Sarah",
 	   "image":"images/real/sarah.png",
-	   "isFemale" : true
+	   "isFemale" : true,
+	    "children" :[
+		{
+		  "name": "Stephanie",
+		  "isFemale":true	   	  
+		},
+		{
+		  "name": "Patricia",
+		  "isFemale":true
+		},
+		{
+		  "name": "Phillip"	       
+		},
+		{
+		  "name": "Kathleen",
+		  "isFemale":true
+		},
+		{
+		  "name": "Paula",
+	      "isFemale" : true		  
+		}
+	  ]
 	},
 	{
 	   "name":"Mary",
