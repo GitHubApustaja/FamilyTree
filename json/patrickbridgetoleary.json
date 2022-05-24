@@ -1,0 +1,44 @@
+{
+  "children":[
+    {
+      "name":"John",
+	  "bio":"13/05/1947. Married Christine Mackey Mullaghmast 28/11/1967",
+	  "children" :[
+			{
+			  "name": "David",				  
+			  "bio":"08/09/1970"	
+			},
+			{
+				"name": "Steven",				
+				"bio":"24/10/1971"
+			}
+		]
+    },
+	{
+		"name":"Carmel",
+		"bio":"1948. Married James Doran. Bennets Bridge",
+		"isFemale":true
+	},
+	{
+		"name":"Dermot"
+	},
+	{
+		"name":"Bridget",
+		"bio":"Married Bernard Gibney",
+		"isFemale":true
+	},
+	{
+		"name":"Patrick",
+		"bio":"Married Mary Beacon"		
+	},
+	{
+		"name":"Frances",
+		"isFemale":true,
+		"bio":"Married James Bowers. Allen"		
+	},	
+	{
+		"name":"Geraldine",
+		"isFemale":true			
+	}	
+  ]
+}

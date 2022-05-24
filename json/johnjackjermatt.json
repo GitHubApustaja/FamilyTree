@@ -19,7 +19,9 @@
     },	
 	{
       "name":"Patrick",
-      "bio":"23/09/1911. Married Bridget O'Leary" 
+      "bio":"23/09/1911. Married Bridget O'Leary",
+      "image":"images/fictional/lord.png",	
+      "source":"json/patrickbridgetoleary.json"	  
     },
 	{
       "name":"Mary Ellen",
