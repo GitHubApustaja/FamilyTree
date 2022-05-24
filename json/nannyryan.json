@@ -115,7 +115,8 @@
 	   "isFemale" : true,
 	   "children" :[
 		{
-		  "name": "Phillip"	   	  
+		  "name": "Phillip",
+		  "image":"images/real/philliprafter.png",	   	  
 		},
 		{
 		  "name": "Tom"		 
@@ -126,7 +127,8 @@
 	      "isFemale" : true		  
 		},
 		{
-		  "name": "Vincent"		  
+		  "name": "Vincent",
+		  "image":"images/real/vincentrafter.png"
 		},
 		{
 		  "name": "Cora",
