@@ -5,7 +5,9 @@
   "children":[
     {
       "name":"Malachy",
-      "bio":"Married to Mary Costelloe"     
+      "bio":"Married to Mary Costelloe",
+      "image":"images/fictional/lord.png",
+	  "source":"json/malachymarycostelloe.json"	  
     },
     {
       "name":"Darby",
