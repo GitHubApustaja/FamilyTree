@@ -24,7 +24,9 @@
     },
 	{
       "name":"Cornelius",
-      "bio":"13/01/1867. Married 21/06/1899 to Catherine Condon (Shronill)" 
+      "bio":"13/01/1867. Married 21/06/1899 to Catherine Condon Shronill at St. Finbarr's Cork",
+	  "image":"images/fictional/lord.png",
+      "source":"json/cornelius.json"	
     },
 	{
       "name":"Michael",

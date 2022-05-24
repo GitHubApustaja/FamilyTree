@@ -1,0 +1,57 @@
+{
+  "children":[
+    {
+      "name":"Jeremiah (Dermot) Richard",
+	  "bio":"Pupil St. Edna's. Shot by Black and Tans 20/03/1921"  
+    },
+	{
+      "name":"Ellen",
+	  "bio":"15/07/1900. Married Andrew Whelan in Cork",
+      "isFemale" : true,	  
+	  "children" :[
+		{
+		  "name": "Catherine",
+		  "isFemale" : true,
+		  "bio":"Married James (John) Hughes",
+		  "children" :[
+				{
+				  "name": "Dermot",				  
+				  "bio":"Married Kathleen Houlihan"	
+				},
+				{
+					"name": "Elmear",
+					"isFemale":true,
+					"bio":"Married Noel Daly"
+				}
+			]		  
+		},
+		{
+			"name": "Dermot",
+			"bio":"Married Maria Naughton",
+			"children" :[
+				{
+				  "name": "Dermot" 
+				},
+				{
+					"name": "Ciara",
+					"isFemale":true					
+				}
+			]	
+		},
+		{
+			"name": "Maureen",
+			"isFemale" : true,
+			"bio":"Married Laurence Clarke",
+			"children" :[
+				{
+				  "name": "Dermot" 
+				},
+				{
+				  "name": "Laurence"									
+				}
+			]
+		}
+	  ]	
+    }
+  ]
+}
