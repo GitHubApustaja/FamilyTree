@@ -1,0 +1,42 @@
+{
+  "children":[
+    {
+      "name":"Jeremiah",
+	  "bio": "Bachelor"	 
+    },
+	{
+      "name":"Thomas",
+	  "bio": "30/08/1895. Married Bridget O'Keefe",
+	  "image":"images/fictional/lord.png",
+	  "children":[
+		{
+		  "name": "Brenda",
+		  "isFemale" : true	 
+		},
+		{
+		  "name": "Frances",
+		  "isFemale" : true	 			
+		}
+	  ]	  
+    },  
+	{
+      "name":"Malachy",
+	  "bio": "29/10/1896. School teacher"	  
+    },
+	{
+      "name":"Michael",	
+	  "bio" : "Bachelor"  
+    },
+	{
+      "name":"Ellen",
+	  "bio": "16/11/1898. Sr. M. Anne (Presentation Convent Cashel)",
+	  "isFemale" : true	  
+    },
+	{
+      "name":"Mary",
+	  "bio": "Spinster",
+	  "isFemale" : true	  
+    }		
+	
+  ]
+}

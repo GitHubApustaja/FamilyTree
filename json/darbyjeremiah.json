@@ -2,7 +2,8 @@
   "children":[
     {
       "name":"Matthew",
-      "bio":"12/1855. Married Maria Dwyer"     
+      "bio":"12/1855. Married Maria Dwyer"
+	  "source" : "json/matthewmariadwyer.json"
     },
     {
       "name":"John and Thomas",
