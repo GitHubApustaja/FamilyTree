@@ -133,6 +133,10 @@
 	   "name":"Fidelma",
 	   "image":"images/real/fidelma.png",	   
 	   "isFemale" : true
-	} 	
+	},
+	{
+	   "name":"Bridget",	   
+	   "isFemale" : true
+	}  	
   ]
 }
