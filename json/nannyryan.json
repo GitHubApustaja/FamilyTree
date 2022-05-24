@@ -1,17 +1,56 @@
 {
   "children":[
     {
-      "name": "Patrick",
+      "name": "Patrick",	
 	  "image":"images/real/paddy.png"
     },
     {
       "name": "Margaret (Peggy)",
 	  "image":"images/real/peggy.png",
-	  "isFemale" : true
+	  "isFemale" : true,
+	  "children" :[
+		{
+		  "name": "Gerard"		 
+		},
+		{
+		  "name": "John"		 
+		},
+		{
+		  "name": "Marian",
+		  "isFemale":true
+		},
+		{
+		  "name": "Kathleen",
+		  "isFemale":true
+		}
+	  ]
     },
 	{
       "name": "Josie",
-	  "isFemale" : true
+	  "isFemale" : true,
+	   "children" :[
+		{
+		  "name": "John"	   	  
+		},
+		{
+		  "name": "Phillip"		 
+		},
+		{
+		  "name": "Paul"		  
+		},
+		{
+		  "name": "Michael"		  
+		},
+		{
+		  "name": "Eugene"		  
+		},
+		{
+		  "name": "Patricia"		  
+		},		
+		{
+		  "name": "Denise"		  
+		}
+	  ]
     },
 	{
       "name": "Ellen (Nell)",
@@ -22,7 +61,20 @@
 	{
       "name": "Kathleen",
 	  "image":"images/real/Kathleen.png",
-	  "isFemale" : true
+	  "isFemale" : true,
+	  "children" :[
+		{
+		  "name": "Ann",
+	      "isFemale":true		  
+		},
+		{
+		  "name": "Phillip"		 
+		},
+		{
+		  "name": "Francis",
+		  "isFemale":true
+		}
+	  ]
     },
 	{
 	   "name":"Sarah",
@@ -31,7 +83,30 @@
 	},
 	{
 	   "name":"Mary",
-	   "isFemale" : true
+	   "isFemale" : true,
+	   "children" :[
+		{
+		  "name": "Phillip"	   	  
+		},
+		{
+		  "name": "Tom"		 
+		},
+		{
+		  "name": "Oonagh",
+	      "isFemale" : true		  
+		},
+		{
+		  "name": "Vincent"		  
+		},
+		{
+		  "name": "Cora",
+	      "isFemale" : true		  
+		},
+		{
+		  "name": "Marina",	
+		  "isFemale" : true	  
+		}
+	  ]
 	} ,
 	{
 	   "name":"Fidelma",
