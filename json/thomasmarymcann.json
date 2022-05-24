@@ -1,0 +1,35 @@
+{
+  "children":[
+    {
+      "name":"Thomas"	  
+    },
+	{
+      "name":"John"	
+    },  
+	{
+      "name":"James"	
+    },
+	{
+      "name":"Charles"	
+    },
+	{
+      "name":"Henry" 
+    },
+	{
+      "name":"Maria",
+	  "bio":"Married George Milner",
+	  "isFemale" : true,	  
+	  "children" :[
+		{
+		  "name": "Michael"		 
+		}
+	  ]	
+    },
+	{
+      "name":"Catherine" 
+    },	
+	{
+      "name":"Ethel" 
+    }
+  ]
+}

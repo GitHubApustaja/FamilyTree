@@ -12,7 +12,9 @@
     },
 	{
       "name":"Thomas",
-      "bio":"Married Mary McCann (Dublin) c.1888/9 USA"	 
+      "bio":"Married Mary McCann (Dublin) c.1888/9 USA",
+	  "image":"images/fictional/lord.png",
+      "source":"json/thomasmarymcann.json"		  
     },
 	{
       "name":"John (Jack Jer Matt)",
