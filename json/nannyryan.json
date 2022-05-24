@@ -116,19 +116,19 @@
 	   "children" :[
 		{
 		  "name": "Phillip",
-		  "image":"images/real/philliprafter.png"	   	  
+		  "image":"images/real/philliprafter.PNG"	   	  
 		},
 		{
 		  "name": "Tom"		 
 		},
 		{
 		  "name": "Oonagh",
-		  "image":"images/real/oonaghrafter.png",
+		  "image":"images/real/oonaghrafter.PNG",
 	      "isFemale" : true		  
 		},
 		{
 		  "name": "Vincent",
-		  "image":"images/real/vincentrafter.png"
+		  "image":"images/real/vincentrafter.PNG"
 		},
 		{
 		  "name": "Cora",
@@ -136,7 +136,7 @@
 		},
 		{
 		  "name": "Marina",	
-		  "image":"images/real/marinarafter.png",
+		  "image":"images/real/marinarafter.PNG",
 		  "isFemale" : true	  
 		}
 	  ]
