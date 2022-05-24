@@ -6,17 +6,21 @@
     },
     {
       "name": "Margaret (Peggy)",
+	  "bio" : "Married Gerald Looram",
 	  "image":"images/real/peggy.png",
 	  "isFemale" : true,
 	  "children" :[
 		{
-		  "name": "Gerard"		 
+		  "name": "Gerard",
+		  "image":"images/real/gerardlooram.png"		  
 		},
 		{
-		  "name": "John"		 
+		  "name": "John"
+		  "image":"images/real/johnlooram.png"			  
 		},
 		{
 		  "name": "Marian",
+		  "image":"images/real/marianlooram.png"	
 		  "isFemale":true
 		},
 		{
@@ -27,6 +31,7 @@
     },
 	{
       "name": "Josie",
+	  "bio": "Married Michael (Mick) Flemming",
 	  "isFemale" : true,
 	   "children" :[
 		{
@@ -54,12 +59,14 @@
     },
 	{
       "name": "Ellen (Nell)",
+	  "bio": "Married Martin Holbrook",
 	  "source": "json/ellenmartin.json",
 	  "image":"images/real/ellen(nell).png",
 	  "isFemale" : true
     },	
 	{
       "name": "Kathleen",
+	  "bio": "Married James Leamy",
 	  "image":"images/real/Kathleen.png",
 	  "isFemale" : true,
 	  "children" :[
@@ -136,7 +143,8 @@
 	},
 	{
 	   "name":"Bridget",	   
-	   "isFemale" : true
+	   "isFemale" : true,
+	   "bio" : "Died 10th February 1947 Aged 12 Yrs. Interred in Clonoulty"
 	}  	
   ]
 }

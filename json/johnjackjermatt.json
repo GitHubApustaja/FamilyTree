@@ -12,7 +12,7 @@
     },
 	{
       "name":"Catherine",
-      "bio":"08/02/1910. Married Philip Ryan", 
+      "bio":"Born 08/02/1910. Died 13/09/1997 aged 87 Years.  Married Philip Ryan who died 21/01/1944 aged 46 years", 
 	  "source":"json/nannyryan.json",
 	  "image":"images/fictional/lord.png",
 	  "isFemale":true
