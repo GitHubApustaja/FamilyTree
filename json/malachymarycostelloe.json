@@ -1,0 +1,70 @@
+{
+  "children":[
+	{
+		"name":"Bridget",
+		"bio":"b. 09/1814",
+		"isFemale":true
+	},
+    {
+      "name":"Michael",
+	  "bio":"16/10/1815. Married Mary Fogarty",
+	  "children" :[
+			{
+			  "name": "Malachy",				  
+			  "bio":"29/04/1851"	
+			},
+			{
+			  "name": "Anne",				
+			  "bio":"08/02/1853",
+			  "isFemale":true
+			},
+			{
+			  "name": "John",				
+			  "bio":"07/12/1854"			 
+			},
+			{
+			  "name": "Margaret",				
+			  "bio":"08/06/1857",
+			  "isFemale":true
+			},
+			{
+			  "name": "Mary",				
+			  "bio":"27/04/1859",
+			  "isFemale":true
+			},
+			{
+			  "name": "Honora",				
+			  "bio":"18/03/1861",
+			  "isFemale":true
+			},
+			{
+			  "name": "Catherine",				
+			  "bio":"11/03/1863",
+			  "isFemale":true
+			},
+			{
+			  "name": "Michael",				
+			  "bio":"13/03/1865"			 
+			},
+			{
+			  "name": "Martin",				
+			  "bio":"27/07/1867"			 
+			},
+			{
+			  "name": "Bridget",				
+			  "isFemale":true		 
+			}			
+		]
+    },	
+	{
+		"name":"Joanne",
+		"bio":"12/09/1818",
+	    "isFemale":true
+	},
+	{
+		"name":"Matthew",
+		"bio":"13/04/1827"
+	
+	}
+  ]
+}
