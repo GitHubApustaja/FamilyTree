@@ -10,9 +10,9 @@
 	  "isFemale" : true,
 	   "children" :[
 			{
-			  "name": "Ember",				  
-			  "isFemale":true,
-			  "Bio":"Ember Joan born 25/06/2016"
+				"name": "Ember",				  
+				"isFemale":true,
+				"bio":"Ember Joan born 25/06/2016"
 			},
 			{
 				"name": "Elius",
@@ -32,8 +32,8 @@
 	  "isFemale" : true,
 	   "children" :[
 			{
-			  "name": "Sebastian",
-			  "bio": "04/04/2019"
+				"name": "Sebastian",
+				"bio": "04/04/2019"
 			},
 			{
 				"name": "Alice",

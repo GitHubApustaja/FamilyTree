@@ -72,13 +72,16 @@
 	  "children" :[
 		{
 		  "name": "Ann",
+		  "image":"images/real/annleamy.png",
 	      "isFemale":true		  
 		},
 		{
-		  "name": "Phillip"		 
+		  "name": "Phillip",
+		  "image":"images/real/phillipleamy.png"		  
 		},
 		{
 		  "name": "Francis",
+		  "image":"images/real/francisleamy.png",
 		  "isFemale":true
 		}
 	  ]
@@ -95,6 +98,7 @@
 		},
 		{
 		  "name": "Patricia",
+		  "image":"images/real/patriciaeverling.png",
 		  "isFemale":true
 		},
 		{
@@ -149,7 +153,8 @@
 	{
 	   "name":"Bridget",	   
 	   "isFemale" : true,
-	   "bio" : "Died 10th February 1947 Aged 12 Yrs. Interred in Clonoulty"
+	   "bio" : "(Biddy) Died 10th February 1947 Aged 12 Yrs. Interred in Clonoulty",
+	   "image" :"images/real/biddy.png"
 	}  	
   ]
 }
