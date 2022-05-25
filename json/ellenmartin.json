@@ -1,15 +1,46 @@
 {
   "children":[
     {
-      "name": "Simon"
+      "name": "Simon",
+	  "bio":"09/08/1979."
     },
     {
       "name": "Katherine",
-	  "isFemale" : true
+	  "bio" :"26/04/1980. Married Martin Emanuel",
+	  "isFemale" : true,
+	   "children" :[
+			{
+			  "name": "Ember",				  
+			  "isFemale":true,
+			  "Bio":"Ember Joan born 25/06/2016"
+			},
+			{
+				"name": "Elius",
+				"bio":"Elius Patrick born 13/02/2018"				
+			},
+			{
+				"name":"Gracie",				
+				"bio":"Gracie-Ellen Georgia born 06/12/2019",
+				"isFemale":true	
+			}
+		]
+	  
     },
 	{
       "name": "Joanne",
-	  "isFemale" : true
+	  "bio":"28/06/1981. Married Nuno Costa from Portugal",
+	  "isFemale" : true,
+	   "children" :[
+			{
+			  "name": "Sebastian",
+			  "bio": "04/04/2019"
+			},
+			{
+				"name": "Alice",
+				"isFemale":true,
+				"bio": "25/09/2020"
+			}
+		]
     }	
   ]
 }
