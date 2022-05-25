@@ -10,8 +10,8 @@
   <script type="text/javascript">
 	$(document).ready(function(){
 	
-	$(document).off("click")
-				.on("click", function(){
+	$(document).off("click", ".button")
+				.on("click", ".button", function(){
 					document.location.hash = $(this).attr("data-family");
 					location.reload();
 				});
