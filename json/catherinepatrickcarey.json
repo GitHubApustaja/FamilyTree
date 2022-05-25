@@ -6,7 +6,7 @@
     },
     {
       "name": "Joanna",
-	  "bio":"23/02/1874. Married John O'Dwyer (Jack Jer Matt, Father of Catherine Ryan/Dwyer) 15/02/1905.",
+	  "bio":"23/02/1874. Married John O'Dwyer (Jack Jer Matt, Father of Catherine Dwyer/Ryan) 15/02/1905.",
 	  "image":"images/goldenGirl.png",
 	  "isFemale" : true
     },
@@ -17,7 +17,69 @@
 	  "children":[
 			{
 				"name": "Jack",
-				"bio":"Married Bridie Quinlan (Doon)"
+				"bio":"Married Bridie Quinlan (Doon)",
+				"children":[
+					{
+					  "name":"Mary",
+					  "isFemale":true,
+					  "bio":"Married Richard O'Connnor",
+					   "children":[
+							{
+								"name":"William"					  
+							},
+							{
+								"name":"Mary Pat",
+								"isFemale":true							  
+							},
+							{
+								"name":"Catherine",
+								"isFemale":true									
+							},
+							{
+								"name":"James"					  
+							},
+							{
+								"name":"Richard"					  
+							}							
+						  ]
+					},
+					{
+						"name":"Beatrice",
+						"isFemale":true,
+						"bio":"Married Tom Hickey. No children"
+					},
+					{
+						"name":"James",						
+						"bio":"Married Elizabeth Ronan",
+						"children":[
+							{
+								"name":"Jean",
+								"isFemale":true
+							},
+							{
+								"name":"James"														  
+							},
+							{
+								"name":"Calum",
+								"bio":"Adopted"									
+							},
+							{
+								"name":"Michel",
+								"bio":"Adopted"
+								
+							},
+							{
+								"name":"Maria",
+								"isFemale":true
+							}							
+						  ]
+					},
+					{
+						"name":"Jack",						
+						"bio":"Married Margaret McGarritty"
+					}
+					
+				  ]
 			},
 			{
 				"name": "Michael",
