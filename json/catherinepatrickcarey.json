@@ -22,6 +22,7 @@
 					{
 					  "name":"Mary",
 					  "isFemale":true,
+					  "image":"images/fictional/lord.png",
 					  "bio":"Married Richard O'Connnor",
 					   "children":[
 							{
@@ -49,7 +50,8 @@
 						"bio":"Married Tom Hickey. No children"
 					},
 					{
-						"name":"James",						
+						"name":"James",	
+						"image":"images/fictional/lord.png",						
 						"bio":"Married Elizabeth Ronan",
 						"children":[
 							{
@@ -88,6 +90,7 @@
 			{
 				"name": "Patrick",
 				"bio":"Married Sarah Kennedy (Knockahorna)",
+			    "image":"images/fictional/lord.png",
 				"children":[
 					{
 						"name":"Breda",
@@ -109,6 +112,7 @@
 			{
 				"name":"James",
 				"bio":"Married Catherine O'Gorman",
+				"image":"images/fictional/lord.png",
 				"children":[
 					{
 						"name":"Noel",						
@@ -133,6 +137,7 @@
 			},
 			{
 				"name":"William",
+				"image":"images/fictional/lord.png",
 				"bio":"Married Mary Deere",
 				"children":[
 					{
