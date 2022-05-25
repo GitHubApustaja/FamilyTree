@@ -11,21 +11,34 @@
     },
 	{
       "name": "James",
+	  "image":"images/fictional/lord.png",
 	  "bio":"27/09/1875. Married Joanna English (Pretty) Coolanga",
 	  "children":[
 			{
-			  "name": "asdasdas",
-			  "bio":"asdasdas"
+				"name": "Jack",
+				"bio":"Married Bridie Quinlan (Doon)"
 			},
 			{
-			  "name": "asdasdas",
-			  "bio":"asdasdas",
-			  "isFemale" : true
+				"name": "Michael",
+				"bio":"Never married"			 
 			},
 			{
-			  "name": "asdasdas",
-			  "bio":"asdasdas"			  
-			}	
+				"name": "Patrick",
+				"bio":"Married Sarah Kennedy (Knockahorna)"			  
+			},
+			{
+				"name":"James",
+				"bio":"Married Catherine O'Gorman"				
+			},
+			{
+				"name":"William",
+				"bio":"Married Mary Deere"
+			},
+			{
+				"name":"Catherine",
+				"bio":"Sister Clement",
+				"isFemale":true
+			}
 		  ]
     },
 	{
@@ -52,11 +65,13 @@
 	},
 	{
 		"name":"Anthony",
+		"image":"images/fictional/lord.png",
 		"bio":"Married 1) Molly Boyle (Cassestown, Thurles). 2) Bridget Greene",
 		 "children":[
 			{
 			  "name":"Kathleen",
 			  "isFemale":true,
+			  "image":"images/fictional/lord.png",
 			  "bio":"Married Mr. O'Mahoney",
 			  "children":[
 					{

@@ -7,6 +7,7 @@
       "name":"Catherine",
       "bio":"30/01/1846. Married Patrick Carey 30/01/1872",
       "isFemale":true,
+	  "image":"images/fictional/lord.png",
 	  "source":"json/catherinepatrickcarey.json"
     },
     {
@@ -15,6 +16,7 @@
     },
 	{
       "name":"Clement",
+	  "image":"images/fictional/lord.png",
       "bio":"09/09/1849. Married Anne Sheehan",
 	  "children" :[
 			{
