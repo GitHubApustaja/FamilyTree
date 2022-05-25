@@ -1,60 +1,72 @@
 {
-  "name": "James English",
-  "bio":"Married Judith Sadler 02/03/1845",
-  "image":"images/fictional/lord.png",
   "children":[
     {
-      "name":"Catherine",
-      "bio":"30/01/1846. Married Patrick Carey 30/01/1872",
-      "isFemale":true,
-	  "source":"json/catherinepatrickcarey.json"
+      "name": "Patrick",
+	  "bio":"20/11/1872. Went to USA. Married Corbett (Upperchurch)"
     },
     {
-      "name":"Richard",
-      "bio":"22/06/1847" 
+      "name": "Joanna",
+	  "bio":"23/02/1874. Married John O'Dwyer (Jack Jer Matt, Father of Catherine Ryan/Dwyer) 15/02/1905.",
+	  "isFemale" : true
     },
 	{
-      "name":"Clement",
-      "bio":"09/09/1849. Married Anne Sheehan",
-	  "children" :[
+      "name": "James",
+	  "bio":"27/09/1875. Married Joanna English (Pretty) Coolanga",
+	  "children":[
 			{
-				"name": "Joanna",
-				"bio":"14/11/1885",
-				"isFemale":true
+			  "name": "asdasdas",
+			  "bio":"asdasdas"
 			},
 			{
-				"name": "Catherine",
-				"bio":"03/09/1888",
-				"isFemale":true
+			  "name": "asdasdas",
+			  "bio":"asdasdas",
+			  "isFemale" : true
 			},
 			{
-				"name": "Michael",
-				"bio":"05/01/1893. Married Mary Ann Caroll"			
-			}		
-		  ]		  
+			  "name": "asdasdas",
+			  "bio":"asdasdas"			  
+			}	
+		  ]
     },
 	{
-		"name":"William",
-		"bio":"04/05/1852" 
-    },
+		"name":"Michael",
+		"bio":"28/02/1877. Went to USA. Married Delia O'Mahony (Doon)"		
+	},
+	{
+		"name":"Clement",
+		"bio":"07/01/1879. Went to USA. Married Flood (Toem)"		
+	},
 	{
 		"name":"Mary",
-		"bio":"03/08/1854. Married Laurence Loughman 02/09/1875",
-		"isFemale":true		
-	},
-	{
-		"name":"Joanna",
-		"bio":"11/07/1856",
-		"isFemale":true		
-	},
-	{
-		"name":"Bridget",
-		"bio":"28/12/1858",
-		"isFemale":true		
+		"isFemale":true,
+		"bio":"26/01/1881. Married Philip Murphy (Clounoulty Hill)"		
 	},
 	{
 		"name":"John",
-		"bio":"31/03/1862"		
+		"bio":"01/1885. Married Margaret Ryan (Drom)"
+	},
+	{
+		"name":"Bridget",
+		"isFemale":true,
+		"bio":"05/01/1887"		
+	},
+	{
+		"name":"Anthony",
+		"bio":"Married 1) Molly Boyle (Cassestown, Thurles). 2) Bridget Greene",
+		 "children":[
+			{
+			  "name":"Kathleen",
+			  "isFemale":true,
+			  "bio":"Married Mr. O'Mahoney",
+			  "children":[
+					{
+					  "name":"Anthony"					  
+					}
+				  ]
+			}
+		  ]
+		
 	}
+	
   ]
 }
