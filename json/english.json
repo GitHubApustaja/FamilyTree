@@ -1,0 +1,59 @@
+{
+  "name": "James English",
+  "bio":"Married Judith Sadler 02/03/1845",
+  "image":"images/fictional/lord.png",
+  "children":[
+    {
+      "name":"Catherine",
+      "bio":"30/01/1846. Married Patrick Carey 30/01/1872",
+      "isFemale":true	
+    },
+    {
+      "name":"Richard",
+      "bio":"22/06/1847" 
+    },
+	{
+      "name":"Clement",
+      "bio":"09/09/1849. Married Anne Sheehan",
+	  "children" :[
+			{
+				"name": "Joanna",
+				"bio":"14/11/1885",
+				"isFemale":true
+			},
+			{
+				"name": "Catherine",
+				"bio":"03/09/1888",
+				"isFemale":true
+			},
+			{
+				"name": "Michael",
+				"bio":"05/01/1893. Married Mary Ann Caroll"			
+			}		
+		  ]		  
+    },
+	{
+		"name":"William",
+		"bio":"04/05/1852" 
+    },
+	{
+		"name":"Mary",
+		"bio":"03/08/1854. Married Laurence Loughman 02/09/1875",
+		"isFemale":true		
+	},
+	{
+		"name":"Joanna",
+		"bio":"11/07/1856"
+		"isFemale":true		
+	},
+	{
+		"name":"Bridget",
+		"bio":"28/12/1858",
+		"isFemale":true		
+	},
+	{
+		"name":"John",
+		"bio":"31/03/1862"		
+	}
+  ]
+}
