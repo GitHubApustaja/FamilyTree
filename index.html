@@ -7,9 +7,20 @@
   <script src="bower_components/d3/d3.min.js"></script>
   <script src="scripts/jquery.hoverIntent.minified.js"></script>
   <script src="scripts/tree.js"></script>
+  <script type="text/javascript">
+	$(document).ready(function(){
+	
+	$(document).off("click")
+				.on("click", function(){
+					document.location.hash = $(this).attr("data-family");
+					location.reload();
+				});
+				
+	});
+  </script>
 </head>
 <body>
-  <div id="header"><a href="https://githubapustaja.github.io/FamilyTree/#dwyer" onclick="window.location.reload();">Dwyer</a> <a href="https://githubapustaja.github.io/FamilyTree/#english" onclick="window.location.reload();">English</a></div>
+  <div id="header"><div class="button" data-family="Dwyer">Dwyer</div> <div class="button" data-family="english">English</div>hello world</div>
   <div id="tree-container"></div>
   <div id="bio"></div>  
 </body>
