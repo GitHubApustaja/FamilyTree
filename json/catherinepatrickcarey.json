@@ -87,15 +87,61 @@
 			},
 			{
 				"name": "Patrick",
-				"bio":"Married Sarah Kennedy (Knockahorna)"			  
+				"bio":"Married Sarah Kennedy (Knockahorna)",
+				"children":[
+					{
+						"name":"Breda",
+						"isFemale":true,
+						"bio":"Married John Stretton"
+					},
+					{
+						"name":"Joan",
+						"isFemale":true,
+						"bio":"Married Michael Burchell"						
+					},
+					{
+						"name":"Mary",
+						"isFemale":true,
+						"bio":"Never Married"
+					}
+				  ]				
 			},
 			{
 				"name":"James",
-				"bio":"Married Catherine O'Gorman"				
+				"bio":"Married Catherine O'Gorman",
+				"children":[
+					{
+						"name":"Noel",						
+						"bio":"Married Noreen Baker"
+					},
+					{
+						"name":"Joan",
+						"isFemale":true,
+						"bio":"Married Sean Boylan"						
+					},
+					{
+						"name":"Catherine",
+						"isFemale":true,
+						"bio":"Married Tom O'Donnell"
+					},
+					{
+						"name":"Mary",
+						"isFemale":true,
+						"bio":"Married Tadigh Russell"
+					}
+				  ]				
 			},
 			{
 				"name":"William",
-				"bio":"Married Mary Deere"
+				"bio":"Married Mary Deere",
+				"children":[
+					{
+						"name":"Terence"					  
+					},
+					{
+						"name":"James"
+					}
+				  ]
 			},
 			{
 				"name":"Catherine",
