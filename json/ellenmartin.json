@@ -6,6 +6,7 @@
     },
     {
       "name": "Katherine",
+	  "image":"images/real/kh.png",
 	  "bio" :"26/04/1980. Married Martin Emanuel",
 	  "isFemale" : true,
 	   "children" :[
@@ -29,6 +30,7 @@
 	{
       "name": "Joanne",
 	  "bio":"28/06/1981. Married Nuno Costa from Portugal",
+	  "image":"images/real/jh.png",
 	  "isFemale" : true,
 	   "children" :[
 			{
